@@ -1,6 +1,6 @@
 # Japanese-Food-Order
 **Project Introduction:** <br/>
-This is a simple website front-end design for resturants who wants to make online order and let the item deliever to their home. For now the app only able to simply ecored the customer's order and write to the Nosql databse, advanced feature are under implementation. It was implemented with React (front-end) and Firebase (back-end microservices). People can add food to their shopping chart, edit the shopping chart, and finally place the order without paying it.
+This is a simple website front-end design for resturants who wants to make online order and let the item deliever to their home. For now the app only able to simply record the customer's order and write to the Nosql databse, advanced feature are under implementation. It was implemented with React (front-end) and Firebase (back-end microservices). People can add food to their shopping chart, edit the shopping chart, and finally place the order without paying it.
 <br/>
 <br/>
 
